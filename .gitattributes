@@ -1,0 +1,10 @@
+Cargo.lock linguist-generated
+
+*.woff binary
+
+static/**/*.html linguist-vendored
+*.map linguist-generated
+
+static/* linguist-vendored
+**/*.py linguist-detectable
+*.py linguist-detectable
